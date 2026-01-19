@@ -1,8 +1,8 @@
 class PromptFormatter < Formula
   desc "Transform casual prompts into well-formatted prompts for AI coding assistants"
   homepage "https://github.com/elec7rik/prompt-fmt"
-  url "https://registry.npmjs.org/prompt-formatter/-/prompt-formatter-1.1.0.tgz"
-  sha256 "691395ff64455ec31e3773396221e2f3b6ca1ad516322d99c91ac1b3ed5586db"
+  url "https://registry.npmjs.org/prompt-formatter/-/prompt-formatter-1.1.4.tgz"
+  sha256 "922abbf9d69ddeb19475ceaf3fbd563de0a2a728d79417b62ab50b0ecb0535a4"
   license "MIT"
 
   depends_on "node"
